@@ -29,3 +29,5 @@ inv<-solve(data,...)
 x$setinverse(inv)
 inv
   }
+x <- makeCacheMatrix(matrix(rnorm(9),3,3)
+cacheSolve(x)                     
